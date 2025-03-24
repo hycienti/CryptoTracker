@@ -21,7 +21,7 @@ CryptoTracker is a web application built with React, TypeScript, and TailwindCSS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crypto-tracker.git
+   git clone https://github.com/hycienti/CryptoTracker.git
    cd crypto-tracker
    ```
 
